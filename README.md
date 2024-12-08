@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Yaparla Bhargavi</h1>
 <h3 align="center">A passionate about innovation and technology from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
+<img align="right" alt="coding"width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAj/coding-girl.gif">
 
-<p align="left"> <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="yaparlabhargavi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaparlabhargavi&label=Profile%20views&color=0e75b6&style=flat" alt="yaparlabhargavi" /> </p>
 
 - 🌱 I’m currently learning **visualizing data,excel**
 
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaparlabhargavi&show_icons=true&locale=en" alt="yaparlabhargavi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaparlabhargavi&" alt="yaparlabhargavi" /></p>
+
