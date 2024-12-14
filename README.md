@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaparlabhargavi&label=Profile%20views&color=0e75b6&style=flat" alt="yaparlabhargavi" /> </p>
 
-- 🌱 I’m currently learning **visualizing data,excel**
+- 🌱 I’m currently learning **visualizing data,excel,python**
 
 - 👨‍💻 All of my projects are available at [https://23091a3220.wixsite.com/yaparla-bhargavi](https://23091a3220.wixsite.com/yaparla-bhargavi)
 
