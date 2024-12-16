@@ -1,6 +1,6 @@
 ![logo](https://github.com/YaparlaBhargavi/yaparlabhargavi/blob/main/Clean%20Modern%20Personal%20LinkedIn%20Banner_20241207_213944_0000.png)
 <h1 align="center">Hi 👋, I'm Yaparla Bhargavi</h1>
-<h3 align="center">A passionate about innovation and technology from India</h3>
+<h3 align="center">A passionate about innovation and technology from India </h3>
 
 <img align="right" alt="coding"width="400" src="![image](https://github.com/user-attachments/assets/7bab7b2d-66f1-40a6-80d2-65c4c49c1265)
 ">
