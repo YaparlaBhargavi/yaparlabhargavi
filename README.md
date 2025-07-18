@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **visualizing data,excel,python**
 
-- 👨‍💻 All of my projects are available at [https://23091a3220.wixsite.com/yaparla-bhargavi](https://23091a3220.wixsite.com/yaparla-bhargavi)
+- 👨‍💻 All of my projects are available at [https://yaparlabhargaviportfolio.netlify.app/](https://yaparlabhargaviportfolio.netlify.app/)
 
 - 📫 How to reach me **yaparlabhargavi023@gmail.com**
 
@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/bhargavi-reddy-the-decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/bhargavi-reddy-the-decoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yaparlabhargavi023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaparlabhargavi023" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/[https://www.linkedin.com/in/bhargaviyaparla/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yaparlabhargavi023" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/candyy_babie/profilecard/?igsh=mtnzdgvqcnk3zwljaw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/candyy_babie/profilecard/?igsh=mtnzdgvqcnk3zwljaw==" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@life_captures_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@life_captures_3" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/bhargavi_02317" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/bhargavi_02317" height="30" width="40" /></a>
