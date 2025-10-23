@@ -17,15 +17,17 @@ My ultimate ambition is to harness the power of machine learning 🤖 not just f
 
 - ⚡ Fun fact **passionate about data and machine learning ,with a goal to work on projects that impact society**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/bhargavi-reddy-the-decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/bhargavi-reddy-the-decoder" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/[https://www.linkedin.com/in/bhargaviyaparla/]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bhargaviyaparla" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@life_captures_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@life_captures_3" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/bhargavi_02317" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/bhargavi_02317" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/yaparlabhargavi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/yaparlabhargavi1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/" height="30" width="40" /></a>
+    <a href="mailto:yaparlabhargavi023@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email.png" height="30" width="40"/></a>
+    <a href="https://github.com/YaparlaBhargavi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" height="30" width="40" /></a>
+    <a href="https://yaparlabhargavi.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/website.png" height="30" width="40"/></a>
+    <a href="https://linktr.ee/bhargaviyaparla" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/link.png" height="30" width="40"/></a>
+    <a href="https://x.com/Bhargavi1723" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" height="30" width="40"/></a>
+    <a href="https://www.linkedin.com/in/bhargaviyaparla" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="30" width="40"/></a>
+    <a href="https://www.youtube.com/@Life_captures_3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" height="30" width="40"/></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
