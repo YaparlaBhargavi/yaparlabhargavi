@@ -19,13 +19,13 @@ My ultimate ambition is to harness the power of machine learning 🤖 not just f
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-    <a href="mailto:yaparlabhargavi023@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email.png" height="30" width="40"/></a>
-    <a href="https://github.com/YaparlaBhargavi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" height="30" width="40" /></a>
-    <a href="https://yaparlabhargavi.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/website.png" height="30" width="40"/></a>
-    <a href="https://linktr.ee/bhargaviyaparla" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/link.png" height="30" width="40"/></a>
-    <a href="https://x.com/Bhargavi1723" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" height="30" width="40"/></a>
-    <a href="https://www.linkedin.com/in/bhargaviyaparla" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="30" width="40"/></a>
-    <a href="https://www.youtube.com/@Life_captures_3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" height="30" width="40"/></a>
+    <a href="mailto:yaparlabhargavi023@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email.png" height="30" width="40"/></a>
+    <a href="https://github.com/YaparlaBhargavi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" height="30" width="40" /></a>
+    <a href="https://yaparlabhargavi.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/website.png" height="30" width="40"/></a>
+    <a href="https://linktr.ee/bhargaviyaparla" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/link.png" height="30" width="40"/></a>
+    <a href="https://x.com/Bhargavi1723" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" height="30" width="40"/></a>
+    <a href="https://www.linkedin.com/in/bhargaviyaparla" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="30" width="40"/></a>
+    <a href="https://www.youtube.com/@Life_captures_3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" height="30" width="40"/></a>
 </p>
 
 
