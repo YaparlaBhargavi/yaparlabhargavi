@@ -19,14 +19,17 @@ My ultimate ambition is to harness the power of machine learning 🤖 not just f
 
 <h3 align="left">🌐 Connect with Me:</h3>
 <p align="left">
-    <a href="mailto:yaparlabhargavi023@gmail.com" target="_blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/email.png" height="30" width="40"/></a>
-    <a href="https://github.com/YaparlaBhargavi" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" height="30" width="40" /></a>
-    <a href="https://yaparlabhargavi.netlify.app/" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/website.png" height="30" width="40"/></a>
-    <a href="https://linktr.ee/bhargaviyaparla" target="_blank"><img align="center" src="https://img.icons8.com/color/48/000000/link.png" height="30" width="40"/></a>
-    <a href="https://x.com/Bhargavi1723" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" height="30" width="40"/></a>
-    <a href="https://www.linkedin.com/in/bhargaviyaparla" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" height="30" width="40"/></a>
-    <a href="https://www.youtube.com/@Life_captures_3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" height="30" width="40"/></a>
+    <a href="https://yaparlabhargavi.netlify.app/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/netlify/00C7B7.svg" height="30" width="40" alt="Portfolio"/></a>
+    <a href="https://github.com/YaparlaBhargavi" target="_blank"><img align="center" src="https://cdn.simpleicons.org/github/FFFFFF.svg" height="30" width="40" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/bhargaviyaparla" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30" width="100" alt="LinkedIn"/></a>
+    <a href="https://www.youtube.com/@Life_captures_3" target="_blank"><img align="center" src="https://cdn.simpleicons.org/youtube/FF0000.svg" height="30" width="40" alt="YouTube"/></a>
+    <a href="https://x.com/Bhargavi1723" target="_blank"><img align="center" src="https://cdn.simpleicons.org/x/FFFFFF.svg" height="30" width="40" alt="X"/></a>
+    <a href="https://www.codechef.com/users/bhargavi_02317" target="_blank"><img align="center" src="https://cdn.simpleicons.org/codechef/5B4636.svg" height="30" width="40" alt="CodeChef"/></a>
+    <a href="https://www.geeksforgeeks.org/user/yaparlabha1tr5/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/geeksforgeeks/2D323A.svg" height="30" width="40" alt="GeeksforGeeks"/></a>
+    <a href="https://leetcode.com/u/yaparla-Bhargavi023/" target="_blank"><img align="center" src="https://cdn.simpleicons.org/leetcode/FFA116.svg" height="30" width="40" alt="LeetCode"/></a>
+    <a href="https://www.cloudskillsboost.google/public_profiles/2c7f2232-fac5-4f21-af96-fc4fc6ddbbe1" target="_blank"><img align="center" src="https://cdn.simpleicons.org/googlecloud/4285F4.svg" height="30" width="40" alt="Cloud Skills Boost"/></a>
 </p>
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
